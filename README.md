@@ -6,7 +6,7 @@ Sistema desenvolvido para registrar e consultar como empresas, escolas e pessoas
 
 ## MER DER Conceitual
 
-![MER DER](./backend_uso_ia/docs/der_usos_ia.png)
+![MER DER](./backend_uso_ia/docs/der_uso_ia.png)
 
 ## Tecnologias Utilizadas
 
