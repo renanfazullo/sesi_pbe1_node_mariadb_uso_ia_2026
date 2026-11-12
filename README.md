@@ -6,7 +6,7 @@ Sistema desenvolvido para registrar e consultar como empresas, escolas e pessoas
 
 ## MER DER Conceitual
 
-![MER DER](./backend_uso_ia/docs/der_uso_ia.png)
+![MER DER](./backend_uso_ia/docs/der_usos_ia.png)
 
 ## Tecnologias Utilizadas
 
@@ -24,42 +24,42 @@ Sistema desenvolvido para registrar e consultar como empresas, escolas e pessoas
 
 **Listar usuários**
 
-![Listar usuários](./backend_uso_ia/docs/listar_usuarios.png)
+![Listar usuários](./backend_usos_ia/docs/listar_usuarios.png)
 
 **Cadastrar usuário**
 
-![Cadastrar usuário](./backend_uso_ia/docs/cadastrar_usuarios.png)
+![Cadastrar usuário](./backend_usos_ia/docs/cadastrar_usuarios.png)
 
 **Alterar usuário**
 
-![Alterar usuário](./backend_uso_ia/docs/alterar_usuarios.png)
+![Alterar usuário](./backend_usos_ia/docs/alterar_usuarios.png)
 
 **Login**
 
-![Login](./backend_uso_ia/docs/login.png)
+![Login](./backend_usos_ia/docs/login.png)
 
 **Excluir usuário**
 
-![Excluir usuário](./backend_uso_ia/docs/excluir_usuarios.png)
+![Excluir usuário](./backend_usos_ia/docs/excluir_usuarios.png)
 
 ### Registros de Uso de IA
 
 **Listar registros**
 
-![Listar registros](./backend_uso_ia/docs/listar_registros.png)
+![Listar registros](./backend_usos_ia/docs/listar_registros.png)
 
 **Cadastrar registro**
 
-![Cadastrar registro](./backend_uso_ia/docs/cadastrar_registros.png)
+![Cadastrar registro](./backend_usos_ia/docs/cadastrar_registros.png)
 
 **Alterar registro**
 
-![Alterar registro](./backend_uso_ia/docs/alterar_registros.png)
+![Alterar registro](./backend_usos_ia/docs/alterar_registros.png)
 
 **Excluir registro**
 
-![Excluir registro](./backend_uso_ia/docs/excluir_registros.png)
+![Excluir registro](./backend_usos_ia/docs/excluir_registros.png)
 
 ### Resumo dos Níveis de Risco
 
-![Resumo dos níveis de risco](./backend_uso_ia/docs/resumo.png)
+![Resumo dos níveis de risco](./backend_usos_ia/docs/resumo.png)
